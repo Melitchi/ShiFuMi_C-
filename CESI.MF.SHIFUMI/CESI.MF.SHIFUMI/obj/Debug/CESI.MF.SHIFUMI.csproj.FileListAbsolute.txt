@@ -1,0 +1,6 @@
+c:\users\fonta\onedrive\documents\visual studio 2015\Projects\CESI.MF.SHIFUMI\CESI.MF.SHIFUMI\bin\Debug\CESI.MF.SHIFUMI.exe.config
+c:\users\fonta\onedrive\documents\visual studio 2015\Projects\CESI.MF.SHIFUMI\CESI.MF.SHIFUMI\bin\Debug\CESI.MF.SHIFUMI.exe
+c:\users\fonta\onedrive\documents\visual studio 2015\Projects\CESI.MF.SHIFUMI\CESI.MF.SHIFUMI\bin\Debug\CESI.MF.SHIFUMI.pdb
+c:\users\fonta\onedrive\documents\visual studio 2015\Projects\CESI.MF.SHIFUMI\CESI.MF.SHIFUMI\obj\Debug\CESI.MF.SHIFUMI.csprojResolveAssemblyReference.cache
+c:\users\fonta\onedrive\documents\visual studio 2015\Projects\CESI.MF.SHIFUMI\CESI.MF.SHIFUMI\obj\Debug\CESI.MF.SHIFUMI.exe
+c:\users\fonta\onedrive\documents\visual studio 2015\Projects\CESI.MF.SHIFUMI\CESI.MF.SHIFUMI\obj\Debug\CESI.MF.SHIFUMI.pdb
